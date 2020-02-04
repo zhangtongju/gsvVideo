@@ -1,0 +1,50 @@
+{
+  "appid": 225,
+  "secret": "PeLUliJbelBNtPMnlruLGThwIbHDeCjB",
+  "defaultAppName": "234324aaa",
+  "stoken": "/SbVvxjI/sZ9hCbFp6ogD2IcBcLo8l15gGeBbfBqo7A=",
+  "buildcfg": {
+    "app_name": "花儿",
+    "version_code": 103,
+    "version_name": "1.0.0",
+    "application_id": "com.wy.bbd_rqqeumpc"
+  },
+  "othercfg": {},
+  "platurls": [
+    "http://wtf.peoit.com",
+    "http://packapi.peoit.com",
+    "http://wanxiang.peoit.com"
+  ],
+  "videocfg": {
+    "home_guess": {
+      "h": 9,
+      "w": 16,
+      "no": false,
+      "cell": 1,
+      "rbstr": "#score#",
+      "title": "猜你喜欢",
+      "rbname": "score"
+    },
+    "details_guess": {
+      "h": 16,
+      "w": 9,
+      "no": false,
+      "cell": 2,
+      "rbstr": "#score#",
+      "title": "猜你喜欢",
+      "rbname": "score"
+    },
+    "home_recommand": {
+      "h": 9,
+      "w": 16,
+      "no": false,
+      "cell": 2,
+      "rbstr": "#score#",
+      "title": "热门推荐",
+      "rbname": "score"
+    }
+  },
+  "websiteid": 224,
+  "hiddenurls": "http://118.31.121.4",
+  "websiteurl": "http://www.4uu.org"
+}
